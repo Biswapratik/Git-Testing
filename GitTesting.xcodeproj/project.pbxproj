@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		235C394524F24A8F00BCF7B6 /* TestingBranch.swift in Sources */ = {isa = PBXBuildFile; fileRef = 235C394424F24A8F00BCF7B6 /* TestingBranch.swift */; };
+		235C394724F24D5200BCF7B6 /* Test2.swift in Sources */ = {isa = PBXBuildFile; fileRef = 235C394624F24D5200BCF7B6 /* Test2.swift */; };
 		236C061724D35C2F00450C40 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 236C061624D35C2F00450C40 /* AppDelegate.swift */; };
 		236C061924D35C2F00450C40 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 236C061824D35C2F00450C40 /* SceneDelegate.swift */; };
 		236C061B24D35C2F00450C40 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 236C061A24D35C2F00450C40 /* ViewController.swift */; };
@@ -18,6 +19,7 @@
 
 /* Begin PBXFileReference section */
 		235C394424F24A8F00BCF7B6 /* TestingBranch.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TestingBranch.swift; sourceTree = "<group>"; };
+		235C394624F24D5200BCF7B6 /* Test2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Test2.swift; sourceTree = "<group>"; };
 		236C061324D35C2F00450C40 /* GitTesting.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = GitTesting.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		236C061624D35C2F00450C40 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		236C061824D35C2F00450C40 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -66,6 +68,7 @@
 				236C061F24D35C3000450C40 /* Assets.xcassets */,
 				236C062124D35C3000450C40 /* LaunchScreen.storyboard */,
 				236C062424D35C3000450C40 /* Info.plist */,
+				235C394624F24D5200BCF7B6 /* Test2.swift */,
 			);
 			path = GitTesting;
 			sourceTree = "<group>";
@@ -144,6 +147,7 @@
 				236C061B24D35C2F00450C40 /* ViewController.swift in Sources */,
 				236C061724D35C2F00450C40 /* AppDelegate.swift in Sources */,
 				235C394524F24A8F00BCF7B6 /* TestingBranch.swift in Sources */,
+				235C394724F24D5200BCF7B6 /* Test2.swift in Sources */,
 				236C061924D35C2F00450C40 /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
